@@ -1,6 +1,6 @@
 # Heater Control System
 
-Hi! 👋 I’m Basabathini Munipooja, and this is my submission for the Embedded Systems Intern Assignment from upliance.ai.
+Hi! 👋 I’m Basabathini Munipooja,
 
 This project is about controlling a heater using an Arduino and a temperature sensor. Based on the temperature, the heater turns ON or OFF and shows the current status in the Serial Monitor.
 
